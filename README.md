@@ -102,3 +102,33 @@ This project demonstrates the use of **HTML5 multimedia elements** and semantic 
 - Audio & Video elements
 - Forms and hyperlinks
 - Images with alternative text (accessibility)
+
+
+# 🏫 Sunnydale School Website
+
+Welcome to the **Sunnydale School** website project.  
+This is a simple static HTML webpage designed to present the school’s mission, upcoming events, and contact details using clean structure and internal CSS styling.
+
+---
+
+## 📌 Project Overview
+
+The **Sunnydale School Website** provides:
+- An introduction to the school
+- The school’s mission statement
+- A list of upcoming indoor and outdoor events
+- Contact information for communication
+
+This project is suitable for **HTML & CSS practice**, assignments, and beginner-level web development learning.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **Internal CSS**
+- Basic selectors:
+  - ID selectors
+  - Class selectors
+  - Attribute usage
+- Inline styles (for highlighting dates)
