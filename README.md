@@ -73,3 +73,32 @@ combined with succulent shrimp.
 | **Serving Suggestions** | Serve with steamed rice or jasmine tea |
 
 ---
+
+
+
+# 🎵 Harmony Heights: Feel the Music
+
+Welcome to the official webpage project of **Harmony Heights**, a genre-blending band that creates unique and immersive musical experiences.  
+This project showcases the band’s music, performances, tour dates, and ways for fans to connect.
+
+---
+
+## 📌 Project Description
+
+The **Harmony Heights** website is a static HTML webpage designed to:
+- Introduce the band and its members
+- Share music tracks and live performances
+- Display upcoming tour dates
+- Provide social media links
+- Allow fans to contact the band via a form
+
+This project demonstrates the use of **HTML5 multimedia elements** and semantic structure.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- Audio & Video elements
+- Forms and hyperlinks
+- Images with alternative text (accessibility)
