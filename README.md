@@ -132,3 +132,33 @@ This project is suitable for **HTML & CSS practice**, assignments, and beginner-
   - Class selectors
   - Attribute usage
 - Inline styles (for highlighting dates)
+
+
+# 🌊 Harbor Light Community Center Website
+
+Welcome to the **Harbor Light Community Center** website project.  
+This is a static, accessible HTML webpage designed to showcase community information, services, and events using modern HTML5 and CSS practices.
+
+---
+
+## 📌 Project Overview
+
+The **Harbor Light Community Center Website** is created to:
+- Introduce the community center and its mission
+- Provide information about services offered
+- Highlight upcoming events
+- Offer clear contact information
+- Demonstrate accessibility-friendly and semantic HTML structure
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **Internal CSS**
+- Semantic elements:
+  - `<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`
+- Accessibility features:
+  - `aria-hidden`
+  - Meaningful `alt` attributes
+- Schema.org Microdata (`Event`)
