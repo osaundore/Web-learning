@@ -162,3 +162,27 @@ The **Harbor Light Community Center Website** is created to:
   - `aria-hidden`
   - Meaningful `alt` attributes
 - Schema.org Microdata (`Event`)
+
+
+# 🌍 Discover Your World
+
+**Discover Your World** is an interactive web project that allows users to explore different continents using an image map and identify their current location using browser geolocation.
+
+This project demonstrates the use of **HTML5 features**, **image maps**, **external JavaScript**, and basic **user interaction**.
+
+---
+
+## 📌 Project Overview
+
+The purpose of this project is to:
+- Visually explore continents using a clickable world map
+- Use a button to detect the user’s current geographical location
+- Practice HTML attributes like `usemap`, `area`, and `coords`
+- Integrate external JavaScript files
+- Add a favicon to a webpage
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
